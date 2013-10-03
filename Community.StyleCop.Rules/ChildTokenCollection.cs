@@ -26,9 +26,8 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Reflection;
-
-using Microsoft.StyleCop;
-using Microsoft.StyleCop.CSharp;
+using StyleCop;
+using StyleCop.CSharp;
 
 namespace Community.StyleCop.CSharp
 {

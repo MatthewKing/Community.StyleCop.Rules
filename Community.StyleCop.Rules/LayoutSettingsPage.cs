@@ -23,8 +23,7 @@
 using System;
 using System.Globalization;
 using System.Windows.Forms;
-
-using Microsoft.StyleCop;
+using StyleCop;
 
 namespace Community.StyleCop.CSharp
 {
